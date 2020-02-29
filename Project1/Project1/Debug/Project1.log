@@ -1,0 +1,4 @@
+﻿  Data.cpp
+  main.cpp
+  Generating Code...
+Debug\Data.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
